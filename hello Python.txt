@@ -1,1 +1,1 @@
-Hi This Generative AI is a different
+ Generator uses a language model that learns patterns, grammar, and vocabulary from large amounts of text data
