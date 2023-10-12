@@ -1,1 +1,1 @@
- Generator uses a language model that learns patterns, grammar, and vocabulary from large amounts of text data
+AI World
