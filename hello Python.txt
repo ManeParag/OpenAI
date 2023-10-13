@@ -1,2 +1,1 @@
-<div class="highlight" style="background: #ffffff"><pre style="line-height: 125%;"><span></span>This AI Gives Knowledge To me
-</pre></div>
+This AI Gives Knowledge To me
