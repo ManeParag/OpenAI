@@ -1,2 +1,1 @@
-<div class="highlight" style="background: #ffffff"><pre style="line-height: 125%;"><span></span>AI <span style="color: #000000; font-weight: bold">is</span> a very Powerful Tool
-</pre></div>
+Hi
